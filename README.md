@@ -19,4 +19,4 @@ TypeScript · Next.js · React · PHP · MySQL · JavaScript · CSS
 ## Contacto
 
 * [GitHub](https://github.com/UnaiIvars)
-* [LinkedIn](https://www.linkedin.com/in/unaiivarsdonaire/))
+* [LinkedIn](https://www.linkedin.com/in/unaiivarsdonaire/)
