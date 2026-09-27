@@ -6,7 +6,7 @@ Desarrollo aplicaciones web y proyectos full-stack, explorando nuevas tecnologí
 
 ## Tecnologías
 
-TypeScript · Next.js · React · PHP · MySQL · JavaScript · CSS
+TypeScript · Next.js · React · PHP · MySQL · JavaScript · CSS · Java
 
 ## Proyectos destacados
 
