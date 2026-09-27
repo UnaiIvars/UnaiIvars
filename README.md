@@ -1,16 +1,19 @@
-## Hi there 👋
+# Unai Ivars
 
-<!--
-**UnaiIvars/UnaiIvars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer
 
-Here are some ideas to get you started:
+Desarrollo aplicaciones web y proyectos full-stack,
+explorando nuevas tecnologías y buenas prácticas de desarrollo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+TypeScript · Next.js · React · PHP · MySQL · JavaScript · CSS
+
+## Proyectos destacados
+
+VigorNova
+JuntIA
+
+## Contacto
+
+GitHub · LinkedIn · Portfolio
