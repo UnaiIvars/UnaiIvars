@@ -13,7 +13,7 @@ TypeScript · Next.js · React · PHP · MySQL · JavaScript · CSS
 * [VigorNova](https://github.com/UnaiIvars/VigorNova)
   Plataforma web de entrenamiento y nutrición.
 
-* [JuntIA](https://github.com/UnaiIvars/Juntia)
+* [Juntia](https://github.com/UnaiIvars/Juntia)
   Aplicación web para organizar y gestionar viajes y reservas.
 
 ## Contacto
