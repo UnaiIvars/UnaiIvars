@@ -16,6 +16,9 @@ TypeScript · Next.js · React · PHP · MySQL · JavaScript · CSS · Java
 * [Juntia](https://github.com/UnaiIvars/Juntia)
   Aplicación web para organizar y gestionar viajes y reservas.
 
+* [Portfolio](https://unai-portfolio.vercel.app/)
+  Puedes consultar mi portfolio personal para conocer más sobre mis proyectos, tecnologías y formación.
+
 ## Contacto
 
 * [GitHub](https://github.com/UnaiIvars)
